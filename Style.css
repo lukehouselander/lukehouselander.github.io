@@ -1,0 +1,34 @@
+body {background-color: black;}
+h1 {
+	color: White;
+	text-align: center;
+	font-family: 'Ewert', cursive;
+	font-size: 100px;
+}
+
+h2 {
+	color: White;
+	text-align: center;
+	font-family: 'Ewert', cursive;
+	font-size: 70px;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}	
+
+.btn {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	cursor: pointer;
+}
+
+h3 {
+	color: White;
+	text-align: center;
+	font-family: 'Ewert', cursive;
+	font-size: 45px;
+}
